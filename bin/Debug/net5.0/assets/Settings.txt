@@ -1,0 +1,54 @@
+####            WINDOW
+ScreenSizeX=180
+ScreenSizeY=180
+FontScale=3
+Font=Square
+
+####            PLANETS
+# 0 = Low, 1 = Medium, 2 = High
+PlanetQuality=2
+
+MinPlanetCount=10
+MaxPlanetCount=15
+
+# 0 = Infinte planet scale (default).
+PlanetScale=0
+
+# default = |#0OC*+/^,.     |
+PlanetLuminances=#0OC*+/^,.    
+
+FillPlanets=false
+
+
+
+####            MISC
+DoMouseControls=true
+
+DustCount=40
+
+
+####            DIFFICULTY
+# Each enemy kill increases the difficulty by one
+# every difficulty level increases stats like health and damage
+InitialDifficulty=0
+DoDifficultyScaling=true
+
+
+
+####            SOUNDS
+Music=true
+Sound=true
+
+
+####            DEBUG
+Debug=false
+ShowFPS=false
+ShowColoursOnStartup=false
+
+ShowHitboxes=false
+DoEnemyAI=true
+
+ShowUI=true
+
+ShowLOD=false
+
